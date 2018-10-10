@@ -1,0 +1,15 @@
+org/hackathon/packapp/containerbank/web/AdvisorController.class
+org/hackathon/packapp/containerbank/model/Advisor.class
+org/hackathon/packapp/containerbank/service/AdvisorService.class
+org/hackathon/packapp/containerbank/ContainerBankInitializer.class
+org/hackathon/packapp/containerbank/model/Specialty.class
+org/hackathon/packapp/containerbank/util/MonitoringUnit.class
+org/hackathon/packapp/containerbank/repository/jpa/JpaAdvisorRepositoryImpl.class
+org/hackathon/packapp/containerbank/repository/AdvisorRepository.class
+org/hackathon/packapp/containerbank/util/EntityUtils.class
+org/hackathon/packapp/containerbank/model/Person.class
+org/hackathon/packapp/containerbank/model/Advisors.class
+org/hackathon/packapp/containerbank/model/BaseEntity.class
+org/hackathon/packapp/containerbank/web/CrashController.class
+org/hackathon/packapp/containerbank/model/NamedEntity.class
+org/hackathon/packapp/containerbank/service/impl/AdvisorServiceImpl.class
