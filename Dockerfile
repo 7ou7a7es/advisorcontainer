@@ -1,3 +1,3 @@
-FROM mdelapenya/tomcat-mysql:7.0.77
+FROM tomcat:8-alpine
 
-COPY target/containerbank.war /opt/apache-tomcat-7.0.77/webapps/containerbank.war 
+ADD target/*.war /usr/local/tomcat/webapps/ 
